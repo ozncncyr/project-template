@@ -1,2 +1,3 @@
 # project-template
-Template for Projects 
+
+Template for Projects
